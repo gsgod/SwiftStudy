@@ -153,6 +153,7 @@
 		E78066FC197E878A00D330C3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = GsGod;
 				TargetAttributes = {
@@ -397,6 +398,7 @@
 				E7806722197E878B00D330C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E7806723197E878B00D330C3 /* Build configuration list for PBXNativeTarget "Case1CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +407,7 @@
 				E7806725197E878B00D330C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
